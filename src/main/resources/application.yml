@@ -3,9 +3,9 @@ server:
 spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:mysql://106.14.202.122:3306/spider?useUnicode=true&characterEncoding=utf-8&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=GMT%2b8
+    url: jdbc:mysql://1xxxxxx.122:3306/spider?useUnicode=true&characterEncoding=utf-8&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=GMT%2b8
     username: root
-    password: zhu1280829980..
+    password: zxxxxxx
     hikari:
       connection-test-query: SELECT 1 # ??????
       connection-timeout: 60000 #?????????,??30?
